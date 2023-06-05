@@ -1,18 +1,3 @@
-## Agency Manager - Quản lý Đại Lý 🧑‍💼
-Agency-Manager is a web-based platform to manage commercial agents/retails *(or whatever im not major in comm)* <br/>
-Link demo: ?
-
-# Developer Team 👨‍👨‍👧‍👦
-Team size: 4 <br/>
-
-**Frontend**
-- Nguyễn Trần Hoàng Lợi
-- Hà Minh Hùng
-
-**Backend**
-- Ngô Phước Thịnh
-- Đặng Trần Anh Khoa
-
 # Features ✨
 **Main features**
 - Agent/Retail acceptance
