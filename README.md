@@ -16,9 +16,7 @@
 - Django
 
 **Database**
-![image](https://user-images.githubusercontent.com/67829285/209284303-a72f82c9-7528-4c18-8c2b-20bbc61b0964.png)
 ![CSDL](https://github.com/ThanhLamUit/Milk-store-manager/assets/87577313/f7946ab7-c296-4104-888c-ceff040ec5e9)
-
 # Setting ⚒️
 
 Virtual environment:
